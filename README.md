@@ -6,12 +6,13 @@ lab_lambda on AWS, Query Postgresql Database from RDS or EC.
 1. install nodejs
 2. npm install
 3. export Envirament 
+<pre>
   export DB_USER= Database User Name
   export DB_NAME= Database Instance Name
   export DB_PWD= Database Password
   export DB_HOST= Database Host or IP
   export DB_PORT= Database Listen Port
-
+</pre>
 4. node app.js
 Run it on terminal , then you could see : Example app listening at http://localhost:55090/orders
 
