@@ -17,3 +17,6 @@ Run it on terminal , then you could see : Example app listening at http://localh
 
 5. curl http://localhost:55090/orders
 You could see the result:  {"code":"000","result":{"number":1}}
+
+app.js for run on client
+lambda.js for run on AWS's lamdba
